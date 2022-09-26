@@ -1,0 +1,7 @@
+dell 29000
+lenevo 28000
+sony 41000
+hp 39000
+microsoft
+acer 28000
+asus 21000
